@@ -1,0 +1,18 @@
+Problem Set 2
+
+http://dev.mysql.com/doc/refman/5.0/en/comparison-operators.html
+and many other pages in mysql documentation
+
+http://stackoverflow.com/questions/7236424/python-line-break-in-a-textfile-after-specific-word
+https://piazza.com/class/i23uptiifb6194?cid=520
+http://stackoverflow.com/questions/4796764/read-file-from-line-2-or-skip-header-row
+
+2.8
+http://stackoverflow.com/questions/20095673/python-shift-column-in-pandas-dataframe-up-by-one
+http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.fillna.html
+https://piazza.com/class/i23uptiifb6194?cid=232
+
+2.11
+https://docs.python.org/2/library/datetime.html#strftime-strptime-behavior
+http://stackoverflow.com/questions/18039680/django-get-only-date-from-datetime-strptime
+
